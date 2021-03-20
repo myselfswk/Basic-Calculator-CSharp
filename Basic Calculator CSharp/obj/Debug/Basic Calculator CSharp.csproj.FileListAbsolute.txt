@@ -1,0 +1,10 @@
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\bin\Debug\Basic Calculator CSharp.exe.config
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\bin\Debug\Basic Calculator CSharp.exe
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\bin\Debug\Basic Calculator CSharp.pdb
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\obj\Debug\Basic Calculator CSharp.csprojAssemblyReference.cache
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\obj\Debug\Basic_Calculator_CSharp.Form1.resources
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\obj\Debug\Basic_Calculator_CSharp.Properties.Resources.resources
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\obj\Debug\Basic Calculator CSharp.csproj.GenerateResource.cache
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\obj\Debug\Basic Calculator CSharp.csproj.CoreCompileInputs.cache
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\obj\Debug\Basic Calculator CSharp.exe
+F:\VPL Assignments\Basic Calculator CSharp\Basic Calculator CSharp\obj\Debug\Basic Calculator CSharp.pdb
