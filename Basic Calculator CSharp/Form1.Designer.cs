@@ -127,6 +127,7 @@ namespace Basic_Calculator_CSharp
             this.btnequal.TabIndex = 19;
             this.btnequal.Text = "=";
             this.btnequal.UseVisualStyleBackColor = true;
+            this.btnequal.Click += new System.EventHandler(this.btnequal_Click);
             // 
             // btn0
             // 
